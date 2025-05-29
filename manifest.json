@@ -1,0 +1,10 @@
+{
+    "name": "光譜水平線強度分析",
+    "short_name": "FWHM分析",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#3b82f6",
+    "description": "iPad友善的光譜FWHM、峰值強度分析與實驗工具"
+  }
+  
